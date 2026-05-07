@@ -1,2 +1,2 @@
 # Data-Visualization
-Visualization of Data to Make Meaniful Insight
+Interactive Power BI sales dashboard using Superstore dataset
